@@ -1,0 +1,20 @@
+Os 3 Truques de Economia:
+Arquivos Espertos (S3):
+
+Truque: Mude arquivos que ninguém usa para "prateleiras" mais baratas automaticamente.
+
+Resultado: Você paga muito menos para guardar tudo.
+
+Computadores no Tamanho Certo (EC2):
+
+Truque: Use uma ferramenta da AWS (Optimizer) para ver se seus computadores virtuais estão grandes demais e caros.
+
+Resultado: Diminuímos o tamanho deles para o que você realmente precisa e cortamos o custo.
+
+Desligar à Noite (Lambda/CloudWatch):
+
+Truque: Criamos um alarme que desliga os computadores de Desenvolvimento/Teste toda noite e nos fins de semana.
+
+Resultado: Não pagamos por computação quando a equipe está dormindo.
+
+Conclusão: Vamos usar essas 3 ações para cortar custos imediatamente e usar a nuvem de forma mais inteligente.
